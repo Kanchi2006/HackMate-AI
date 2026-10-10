@@ -15,8 +15,8 @@ export const metadata: Metadata = {
     "Discover hackathons, connect with innovators, develop new skills, and turn your ideas into impact.",
   authors: [
     {
-      name: "Dev Shetty",
-      url: "https://dev.shetty.me",
+      name: "HackMate_AI",
+      url: "https://github.com/kamakshi232006/HackMate_AI",
     },
   ],
   openGraph: {
